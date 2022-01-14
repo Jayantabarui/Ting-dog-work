@@ -1,0 +1,138 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+#tindog{
+  background-color: #ff4c68;
+  color: #fff;
+  padding: 40px;
+}
+.navbar-dark .navbar-brand {
+  color: #fff;
+  font-family: "ubuntu";
+  font-size: 40px;
+  font-weight: 600;
+}
+.navbar-nav{
+  margin-left: auto;
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: rgba(255,255,255,.5);
+  font-size: 20px;
+}
+.nav-item {
+  padding: 0 10px;
+  font-family: 'Montserrat', sans-serif;
+}
+.iphone6-image{
+  transform: rotate(25deg);
+  width: 50%;
+  padding-top: 50px;
+}
+.meet-content h1{
+  position: relative;
+  padding-top: 50px;
+  font-weight: 900;
+  color: #fff;
+  font-size: 60px;
+  line-height: 85px;
+  font-family: 'Montserrat', sans-serif;
+}
+.download-button{
+  margin: 20px 15px 20px 0;
+}
+#elite{
+  margin-top: 10%;
+}
+.elite-content i{
+  color: #ef8172;
+  font-size: 70px;
+  padding-bottom: 20px;
+}
+.elite-content h2{
+  font-size: 28px;
+  font-weight: 700;
+  font-family: 'Montserrat', sans-serif;
+}
+.elite-content p{
+  color: #777;
+  font-size: 20px;
+}
+#slider-img{
+  background-color: #ef8172;
+  margin-top: 10%;
+}
+.carousel-item{
+  padding: 140px 235px;
+}
+.carousel-item h1{
+  color: #fff;
+  font-size: 35px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  line-height: 65px;
+}
+.carousel-item img{
+  width: 18%;
+  border-radius: 100%;
+  padding: 10px;
+}
+.carousel-item em{
+  color: #fff;
+  font-size: 18px;
+}
+#logo{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+#plan{
+  text-align: center;
+  padding: 100px;
+}
+#plan h1{
+  font-size: 35px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  line-height: 60px;
+}
+#plan .simple{
+  color: #777;
+  padding-bottom: 85px;
+}
+.Labrador{
+  position: relative;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid #777;
+  border-radius: 5px;
+}
+.Labrador-content{
+  padding: 15px 20px;
+  background-color: #e9e9e9;
+  border-bottom: 1px solid #777;
+  border-radius: 5px;
+}
+.Labrador-content h4{
+  font-size: 30px;
+  font-weight: 700;
+  font-family: 'Montserrat', sans-serif;
+}
+.free-content{
+  padding: 20px;
+}
+.free-content h3{
+  font-size: 35px;
+  font-weight: 700;
+  line-height: 65px;
+  font-family: 'Montserrat', sans-serif;
+}
+.free-content p{
+  line-height: 50px;
+  font-weight: 600;
+}
+#find h2{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+#footer{margin-top: 20px;}
